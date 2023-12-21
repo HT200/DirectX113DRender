@@ -1,5 +1,7 @@
 # DirectX113DRender
 
+Made for IGME.540
+
 What the renderer can do:
 - Camera (with movement)
 - 3D objects with material
