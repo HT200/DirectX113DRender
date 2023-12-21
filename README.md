@@ -1,6 +1,6 @@
 # DirectX113DRender
 
-What the render can do:
+What the renderer can do:
 - Camera (with movement)
 - 3D objects with material
 - Directional and point light
