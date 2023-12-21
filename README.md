@@ -6,7 +6,7 @@ What the renderer can do:
 - Directional and point light
 - Shadow
 - Skybox
-- Post-processing shader
+- Post-processing shader (currently only box blur)
 
 ImGUI Debug pannel:
 - General: Show general information (FPS, window size).
